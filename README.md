@@ -5,7 +5,7 @@ NHibernateDistributedCache
 The project is a distributed cache example using all the power of NHibernate to manage the Second Level Cache.
 I'm using Couchbase as distributed cache provider, my favourite NO-SQL DB.
 
-In order to run the project you need to:
+In order to run the project you need:
 
 - Visual Studio 2012+
 - Install Couchbase (http://www.couchbase.com/)
